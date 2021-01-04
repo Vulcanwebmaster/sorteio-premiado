@@ -43,6 +43,6 @@ São gerados dois APK's, sendo que um vai instalado em uma Android TV Box ou Sma
 		2.2.8. >> sudo nano /var/www/html/_bd/conexao_bd.php
 		2.2.9. Informe no arquivo as credenciais da base de dados e tecle CTRL + O e CTRL + X para salvar e sair.
 	2.3. Configuração do crontab:
-		2.3.1. >> sudo crontab - e
+		2.3.1. >> sudo crontab -e
 		2.3.2. Informe no arquivo o seguinte dado (sem aspas): "*/5 * * * * php -f /var/www/html/_iframes/_sorteio/_php/sorteio.php"
 
