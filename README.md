@@ -1,8 +1,8 @@
 # sorteio-premiado
 Web App com foco em Android, que tem por objetivo gerar lucro e entretenimento para bares.
 
-#### • 1 - Apresentação do sistema
-#### • 2 - Como instalar
+#### 1. Apresentação do sistema
+#### 2. Como instalar
 
 ## Apresentação do sistema
 
