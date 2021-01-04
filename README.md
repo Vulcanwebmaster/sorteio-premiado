@@ -25,22 +25,22 @@ São gerados dois APK's, sendo que um vai instalado em uma Android TV Box ou Sma
 	#### 1.1. Servidor WEB VPS linux (que permita utilizar o crontab). É necessário que o apache, php e mysql estejam instalados e configurados corretamente.
 
 ### 2. Instalação
-	#### 2.1. Download dos arquivos:
-		##### 2.1.1. >> cd /var/www/html
-		##### 2.1.2. >> wget https://github.com/RafaelCecchin/sorteio-premiado/archive/master.zip
-		##### 2.1.3. >> unzip sorteio-premiado-master.zip
-		##### 2.1.4. >> mv master/* ./
-		##### 2.1.5. >> rm -r master
-		#####2.1.6. >> rm sorteio-premiado-master.zip
-	#### 2.2. Configurar base de dados:
-		##### 2.2.1. >> mysql -u root -p
-		##### 2.2.2. [PASSWORD]
-		##### 2.2.3. >> CREATE DATABASE sorteios CHARACTER SET utf8 COLLATE utf8_general_ci";
-		##### 2.2.4. >> SET time_zone = 'America/Sao Paulo'; SET time_zone = "+03:00"; SET @@session.time_zone = "+03:00";
-		##### 2.2.5. >> mysql -u root -p sorteios < /var/www/html/_dump_bd/sorteios.sql
-		##### 2.2.6. >> sudo nano /var/www/html/_bd/conexao_bd.php
-		##### 2.2.7. Informe no arquivo as credenciais da base de dados e tecle CTRL + O e CTRL + X para salvar e sair.
-	#### 2.3. Configuração do crontab:
-		##### 2.3.1. >> sudo crontab - e
-		##### 2.3.2. Informe no arquivo o seguinte dado (sem aspas): "*/5 * * * * php -f /var/www/html/_iframes/_sorteio/_php/sorteio.php"
+	2.1. Download dos arquivos:
+		2.1.1. >> cd /var/www/html
+		2.1.2. >> wget https://github.com/RafaelCecchin/sorteio-premiado/archive/master.zip
+		2.1.3. >> unzip sorteio-premiado-master.zip
+		2.1.4. >> mv master/* ./
+		2.1.5. >> rm -r master
+		2.1.6. >> rm sorteio-premiado-master.zip
+	2.2. Configurar base de dados:
+		2.2.1. >> mysql -u root -p
+	 	2.2.2. [PASSWORD]
+		2.2.3. >> CREATE DATABASE sorteios CHARACTER SET utf8 COLLATE utf8_general_ci";
+		2.2.4. >> SET time_zone = 'America/Sao Paulo'; SET time_zone = "+03:00"; SET @@session.time_zone = "+03:00";
+		2.2.5. >> mysql -u root -p sorteios < /var/www/html/_dump_bd/sorteios.sql
+		2.2.6. >> sudo nano /var/www/html/_bd/conexao_bd.php
+		2.2.7. Informe no arquivo as credenciais da base de dados e tecle CTRL + O e CTRL + X para salvar e sair.
+	2.3. Configuração do crontab:
+		2.3.1. >> sudo crontab - e
+		2.3.2. Informe no arquivo o seguinte dado (sem aspas): "*/5 * * * * php -f /var/www/html/_iframes/_sorteio/_php/sorteio.php"
 
