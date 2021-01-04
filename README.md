@@ -22,7 +22,7 @@ São gerados dois APK's, sendo que um vai instalado em uma Android TV Box ou Sma
 ## 2. Como instalar?
 
 ### 1. Requisitos
-	#### 1.1. Servidor WEB VPS linux (que permita utilizar o crontab). É necessário que o apache, php e mysql estejam instalados e configurados corretamente.
+	1.1. Servidor WEB VPS linux (que permita utilizar o crontab). É necessário que o apache, php e mysql estejam instalados e configurados corretamente.
 
 ### 2. Instalação
 	2.1. Download dos arquivos:
