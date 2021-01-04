@@ -2,7 +2,7 @@
 Web App com foco em Android, que tem por objetivo gerar lucro e entretenimento para bares.
 
 #### • 1 - Apresentação do sistema
-#### • 2 - Como instalar no servidor
+#### • 2 - Como instalar
 
 ## Apresentação do sistema
 
