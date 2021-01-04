@@ -28,7 +28,7 @@ São gerados dois APK's, sendo que um vai instalado em uma Android TV Box ou Sma
 	2.1. Download dos arquivos:
 		2.1.1. >> cd /var/www/html
 		2.1.2. >> wget https://github.com/RafaelCecchin/sorteio-premiado/archive/master.zip
-		2.1.3. >> unzip sorteio-premiado-master.zip
+		2.1.3. >> unzip master.zip
 		2.1.4. >> mv master/* ./
 		2.1.5. >> rm -r master
 		2.1.6. >> rm sorteio-premiado-master.zip
