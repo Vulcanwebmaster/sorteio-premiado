@@ -45,4 +45,4 @@ São gerados dois APK's, sendo que um vai instalado em uma Android TV Box ou Sma
 	2.3. Configuração do crontab:
 		2.3.1. >> sudo crontab -e
 		2.3.2. Informe no arquivo o seguinte dado (sem aspas): "*/5 * * * * php -f /var/www/html/_iframes/_sorteio/_php/sorteio.php"
-
+		2.3.3. Tecle :wq para salvar e sair
