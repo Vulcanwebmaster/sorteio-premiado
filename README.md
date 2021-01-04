@@ -35,7 +35,7 @@ São gerados dois APK's, sendo que um vai instalado em uma Android TV Box ou Sma
 	2.2. Configurar base de dados:
 		2.2.1. >> mysql -u root -p
 	 	2.2.2. [PASSWORD]
-		2.2.3. >> CREATE DATABASE sorteios CHARACTER SET utf8 COLLATE utf8_general_ci";
+		2.2.3. >> CREATE DATABASE sorteios CHARACTER SET utf8 COLLATE utf8_general_ci;
 		2.2.4. >> SET time_zone = 'America/Sao Paulo'; SET time_zone = "+03:00"; SET @@session.time_zone = "+03:00";
 		2.2.5. >> mysql -u root -p sorteios < /var/www/html/_dump_bd/sorteios.sql
 		2.2.6. >> sudo nano /var/www/html/_bd/conexao_bd.php
