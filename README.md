@@ -14,10 +14,15 @@ O sistema é dividido em duas partes, sendo que uma delas vai instalada em uma A
 
   ### 1.2. Celular
   
-![Celular - Login](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Login.jpg) ![Celular - Configuracoes 1](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Configuracoes%201.jpg)
-![Celular - Configuracoes 2](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Configuracoes%202.jpg) ![Celular - Apostas](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Apostas.jpg)
-![Celular - Sorteios](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Sorteios.jpg) ![Celular - Premiacoes](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Premiacoes.jpg)
-![Celular - Caixa 1](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Caixa%201.jpg) ![Celular - Caixa 2](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Caixa%202.jpg)
+![Celular - Login](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Login.jpg) 
+![Celular - Menu](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Menu.jpg)
+![Celular - Configuracoes 1](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Configuracoes%201.jpg)
+![Celular - Configuracoes 2](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Configuracoes%202.jpg) 
+![Celular - Apostas](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Apostas.jpg)
+![Celular - Sorteios](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Sorteios.jpg) 
+![Celular - Premiacoes](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Premiacoes.jpg)
+![Celular - Caixa 1](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Caixa%201.jpg) 
+![Celular - Caixa 2](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Celular%20-%20Caixa%202.jpg)
 
 ## 2. Como instalar?
 
