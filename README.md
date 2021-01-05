@@ -70,7 +70,7 @@ O sistema é dividido em duas partes, sendo que uma delas vai instalada em uma A
 	Clique em "FINISH!" quando a seguinte mensagem aparecer:
 ![Web2apk Builder 6](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Web2apk%206.png)
 
-3.3. Para geração do APK de sorteios (televisão), será necessário fazer as seguintes alterações:
+	Para geração do APK de sorteios (televisão), será necessário fazer as seguintes alterações:
 ![Web2apk Builder 2](https://github.com/RafaelCecchin/sorteio-premiado/blob/master/_img/Web2apk%202.png)
 	
 	Altere o campo "APP TITLE" para "Sorteios" ou outro nome que desejar.
