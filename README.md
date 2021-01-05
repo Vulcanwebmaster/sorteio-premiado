@@ -53,6 +53,8 @@ O sistema é dividido em duas partes, sendo que uma delas vai instalada em uma A
 		>> sudo crontab -e
 		Informe no arquivo o seguinte dado (sem aspas): "*/5 * * * * php -f /var/www/html/_iframes/_sorteio/_php/sorteio.php"
 		Tecle :wq para salvar e sair
+	Alterar a permissão do arquivo de sorteios:
+		>> chmod 700 /var/www/html/_iframes/_sorteio/_php/sorteio.php
 		
 ### 2.3. Geração dos APK's
 
